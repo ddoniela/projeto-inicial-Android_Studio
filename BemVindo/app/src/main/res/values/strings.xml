@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bem Vindo!</string>
+    <string name="nome">Nome do usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Log in</string>
+    <string name="signin">Sign in</string>
+    <string name="nome2">Nome</string>
+    <string name="descricao">Descrição</string>
+    <string name="responsavel">Responsável</string>
+    <string name="data">Data</string>
+    <string name="status">Em andamento</string>
+    <string name="selecionar">Selecionar</string>
+    <string name="salvar">Salvar</string>
+    <string name="sign_in">Sign in</string>
+    <string name="log_in">Log in</string>
+    <string name="imagem">Imagem de fundo</string>
+    <string name="imagem2">Imagem de fundo</string>
+</resources>
